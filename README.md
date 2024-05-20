@@ -14,7 +14,7 @@ The Little Lemon API is a RESTful web service built with Django and Django REST 
 ## Link Heroku
 
 Accessing the Little Lemon API visit link deployed application [Heroku]()
-## Screenrecorder [Screencasttify](https://drive.google.com/file/d/1b5ujTiECupMP5RAByAd7didqq6yd4Fui/view)
+## Screenrecorder [Screencastify](https://drive.google.com/file/d/1b5ujTiECupMP5RAByAd7didqq6yd4Fui/view)
 
 
 ## Table of Contents
